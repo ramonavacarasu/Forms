@@ -1,4 +1,5 @@
-### Examples of code are taken from the textbook Java EE 8 and Angular. Author: Prashant Padmanabhan
+### Examples of code are taken from the textbook Java EE 8 and Angular. 
+### - Author: Prashant Padmanabhan
 
 # FormsDemo
 
